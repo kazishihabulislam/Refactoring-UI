@@ -1,0 +1,89 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 19.99,
+      "features": [
+        "Access to gym equipment",
+        "Locker facility",
+        "Open gym access during staffed hours",
+        "Free Wi-Fi",
+        "1 complimentary fitness consultation"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": 39.99,
+      "features": [
+        "Access to gym equipment",
+        "Locker facility",
+        "Free group fitness classes",
+        "Extended gym hours",
+        "Free Wi-Fi",
+        "Monthly fitness tracking report",
+        "10% discount on gym merchandise"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": 59.99,
+      "features": [
+        "Access to gym equipment",
+        "Locker facility",
+        "Unlimited group fitness classes",
+        "Access to sauna and steam room",
+        "Personalized fitness assessment",
+        "Priority booking for fitness classes",
+        "Complimentary towel service",
+        "One free personal training session per month",
+        "Access to advanced workout plans"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Family Membership",
+      "price": 99.99,
+      "features": [
+        "Access for up to 4 family members",
+        "Access to gym equipment",
+        "Locker facility",
+        "Group fitness classes",
+        "Childcare facility during workouts",
+        "Family fitness events",
+        "10% discount on additional memberships",
+        "Access to family-friendly group classes"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Student Membership",
+      "price": 29.99,
+      "features": [
+        "Discounted rate for students",
+        "Access to gym equipment",
+        "Locker facility",
+        "Access to select group classes",
+        "Free Wi-Fi",
+        "Access to study lounge",
+        "Exclusive fitness workshops for students"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Corporate Membership",
+      "price": 79.99,
+      "features": [
+        "Discounted rate for corporate employees",
+        "Access to gym equipment",
+        "Locker facility",
+        "Group fitness classes",
+        "Wellness seminars for employees",
+        "Priority access to gym facilities",
+        "Team-building fitness challenges",
+        "20% discount on personal training sessions"
+      ]
+    }
+  ]
+  

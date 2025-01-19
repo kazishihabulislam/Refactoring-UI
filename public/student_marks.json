@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Ahmed",
+      "Physics": 85,
+      "Chemistry": 90,
+      "Biology": 78,
+      "Mathematics": 95,
+      "ICT": 88
+    },
+    {
+      "id": 2,
+      "name": "Sara",
+      "Physics": 92,
+      "Chemistry": 87,
+      "Biology": 85,
+      "Mathematics": 98,
+      "ICT": 91
+    },
+    {
+      "id": 3,
+      "name": "Rafi",
+      "Physics": 75,
+      "Chemistry": 80,
+      "Biology": 72,
+      "Mathematics": 85,
+      "ICT": 79
+    },
+    {
+      "id": 4,
+      "name": "Mita",
+      "Physics": 88,
+      "Chemistry": 84,
+      "Biology": 90,
+      "Mathematics": 92,
+      "ICT": 86
+    },
+    {
+      "id": 5,
+      "name": "Nabila",
+      "Physics": 95,
+      "Chemistry": 91,
+      "Biology": 89,
+      "Mathematics": 97,
+      "ICT": 93
+    }
+  ]
+  
